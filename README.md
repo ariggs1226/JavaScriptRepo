@@ -1,1 +1,0 @@
-This my JavaScript Repo, Hopefully will be more organized that the last.
